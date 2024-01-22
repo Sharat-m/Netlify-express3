@@ -12,9 +12,9 @@ Create netlify.toml file to [build] functions = "functions"
 
     Run commands 
     npm init –y 
-   npm i express serverless-http 
-   npm i netlify-cli netlify-lambda 
-   node –version 
-   npm run build 
+    npm i express serverless-http 
+    npm i netlify-cli netlify-lambda 
+    node –version 
+    npm run build 
 
     
